@@ -21,3 +21,5 @@ My project can do the following:
 3. Generate Bills
 4. Read data from inventory
 5. Update inventory after purchse
+
+About author - I am a graduate student at Delhi University with a bachelor in Mathematics.  Now , I got enrolled in MSC data science at Vellore Institute of Technology. I have a strong background in Mathematics. I have a desire to study data and dig deep into it to provide meaningful insights. I believe that we all can learn from each other experiences. This is my first project on github. If any queries regarding project , you can contact me at pari21lakhina@gmail.com.
