@@ -20,4 +20,4 @@ My project can do the following:
 2. Purchase for customers
 3. Generate Bills
 4. Read data from inventory
-
+5. Update inventory after purchse
